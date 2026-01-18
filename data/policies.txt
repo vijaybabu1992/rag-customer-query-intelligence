@@ -1,0 +1,5 @@
+Policy A: Customers can close their account only after clearing all outstanding dues.
+
+Policy B: Credit card rewards expire after 24 months from the date of accrual.
+
+Policy C: International transactions may incur additional charges as per bank policy.
